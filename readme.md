@@ -13,3 +13,15 @@ My first Cloud + GitHub project. This tool is built to organize and showcase my 
 - Ready for LinkedIn showcase
 
 ### How to run
+# Cloud-Resume-Uploader ☁️
+
+My first Cloud project - All my certificates in one place.
+
+## 📜 My Certificates
+1. [AWS Certificate](AWS-certificate.pdf)
+2. [AWS Cloud Foundation](AWS-cloud-foundation.pdf)
+
+## 🚀 Next Goal
+Connect this with AWS S3 for permanent links
+
+Built by Gagan | Aligarh, UP
